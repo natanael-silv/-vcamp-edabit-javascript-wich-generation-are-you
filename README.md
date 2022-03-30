@@ -10,3 +10,4 @@ https://edabit.com/challenge/48EJWLhF224na8po3
 
 O código acima retorna que nomenclatura determinado ancestral ou descendente de um indivíduo recebe, baseando-se em uma escala que vai de -3 a 3, sendo 0, a própia pessoa. Segue a tabela abaixo para exemplicação: 
 
+<img width="311" alt="tabela" src="https://user-images.githubusercontent.com/72663923/160914843-cb53aa82-d6a5-4a11-a4f6-8a0e2a69273a.PNG">
